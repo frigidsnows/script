@@ -181,6 +181,9 @@ Preview system features:
 
 <img width="680" height="504" alt="image" src="https://github.com/user-attachments/assets/a6de0827-3e22-48b1-8eea-44df6c6a2e7e" />
 
+## Full menu
+
+![ow-overlay_XgtMD3UcWB](https://github.com/user-attachments/assets/d63c04fb-1beb-4484-829c-022c7f40703e)
 
 ---
 
